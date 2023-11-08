@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harini Kristipati</h1>
 <h3 align="center">A passionate frontend developer,Programmer from India</h3>
-
  <img src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="harinikristipati" width="400"/> 
 
 - 🌱 I’m currently learning **MERN STACK, Machime Learning**
