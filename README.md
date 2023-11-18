@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer,Programmer from India</h3>
  <img align='right' src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="harinikristipati" width="400"/> 
 
-- 🌱 I’m currently learning **MERN STACK, Machime Learning**
+- 🌱 I’m currently learning **MERN STACK, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://harinitechexcellence.neocities.org/](https://harinitechexcellence.neocities.org/)
 
